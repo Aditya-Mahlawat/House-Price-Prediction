@@ -1,7 +1,7 @@
 "use client"
 import { useState } from 'react'
 
-const API = 'http://localhost:8000'
+const API = 'http://localhost:8003'
 
 const defaultHouse = {
   sqft_living: 2500, sqft_lot: 5000, bedrooms: 4, bathrooms: 2.5,
